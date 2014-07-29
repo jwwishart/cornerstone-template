@@ -1,0 +1,20 @@
+{
+  "name": "default-site",
+  "version": "0.0.0",
+  "authors": [
+    "jwwishart"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "~1.6.1",
+    "ember-data": "~0.0.14"
+  }
+}
